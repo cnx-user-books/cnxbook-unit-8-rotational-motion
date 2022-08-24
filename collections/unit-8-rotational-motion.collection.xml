@@ -1,59 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Albert Hall">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11970</md:content-id>
-  <md:title>Unit 8 - Rotational Motion</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>32688ce3-e672-420a-ab11-3938492eb20b</md:uuid>
-<md:slug>unit-8-rotational-motion</md:slug>
-</metadata>
-
+    <md:content-id>col11970</md:content-id>
+    <md:title>Unit 8 - Rotational Motion</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>32688ce3-e672-420a-ab11-3938492eb20b</md:uuid>
+    <md:slug>unit-8-rotational-motion</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m60069"/>
-        
-      
-    
-    
-      <col:module document="m60071"/>
-        
-      
-    
-    
-      <col:module document="m60082"/>
-        
-      
-    
-    
-      <col:module document="m60072"/>
-        
-      
-    
-    
-      <col:module document="m60076"/>
-        
-      
-    
-    
-      <col:module document="m60080"/>
-        
-      
-    
-    
-      <col:module document="m60081"/>
-        
-      
-    
+    <col:module document="m60069"/>
+    <col:module document="m60071"/>
+    <col:module document="m60082"/>
+    <col:module document="m60072"/>
+    <col:module document="m60076"/>
+    <col:module document="m60080"/>
+    <col:module document="m60081"/>
   </col:content>
 </col:collection>
